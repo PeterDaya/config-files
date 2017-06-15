@@ -96,7 +96,6 @@ alias l='ls -CF'
 alias gcco='gcc -c -g -Wall'
 alias cdl='cd ~/Documents/linux/linux'
 alias cdnetwork='cd ~/Desktop/networks'
-alias cdsrc='cd ~/Desktop/hacking/booksrc'
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
