@@ -1,0 +1,8 @@
+This solution works in cases where:
+1) wifi connection is established
+2) ping is functioning
+3) you cannot do anything on the internet
+
+
+Everytime after startup, run startup.sh which is included
+in this repository.

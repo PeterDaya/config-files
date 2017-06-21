@@ -1,0 +1,12 @@
+If your internet in Ubuntu Linux is running very slow,
+consider this solution.
+
+Enter the terminal and type: sudo gedit /etc/nsswitch.conf
+
+Look for the line that begins with: 
+hosts: .......
+
+Replace it with:
+hosts: files dns
+
+Save and restart your computer
